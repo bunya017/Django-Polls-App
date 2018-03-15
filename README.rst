@@ -1,9 +1,8 @@
-============
-Django Polls
-============
+================
+Django Polls App
+================
 
-``Django Docs Polls App`` is an implementation of tutorials in the official django docs.
- Padded with new features, you can group ``Categories`` under a ``Ballot Box``
+``Django Polls App`` is an implementation of tutorials in the official django docs. Padded with new features, you can group ``Categories`` under a ``Ballot Box``
 
 
 Requirements

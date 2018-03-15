@@ -32,5 +32,5 @@ Configuration
 Usage
 -----
 
-After configuration, run ``python manage.py runserver`` 
-and open ``http://localhost:8000/`` on your browser.
+After configuration, run ``python manage.py collectstatic`` then ``python manage.py runserver`` 
+to start your server. Open ``http://localhost:8000/`` on your browser.

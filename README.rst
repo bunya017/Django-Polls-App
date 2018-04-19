@@ -1,6 +1,7 @@
 ================
 Django Polls App
 ================
+[![Build Status](https://travis-ci.org/bunya017/Django-Polls-App.svg?branch=master)](https://travis-ci.org/bunya017/Django-Polls-App)
 
 ``Django Polls App`` is an implementation of tutorials in the official django docs. Padded with new features, you can group ``Categories`` under a ``Ballot Box`` and many more.
 

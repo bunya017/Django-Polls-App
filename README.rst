@@ -8,7 +8,7 @@ Django Polls App
 Requirements
 ------------
 
-* Python 2.7 or 3.4+(not tested)
+* Python 2.7
 * Django 1.11+
 
 
